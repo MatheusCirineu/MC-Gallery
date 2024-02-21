@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-    // Adicione outras dependências necessárias aqui
   },
   "engines": {
     "node": ">=14.0.0"
