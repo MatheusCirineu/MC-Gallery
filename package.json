@@ -2,7 +2,7 @@
   "name": "flix-gallery",
   "version": "1.0.0",
   "description": "Um aplicativo simples para visualizar e gerenciar uma galeria de filmes.",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
