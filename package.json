@@ -1,0 +1,26 @@
+{
+  "name": "flix-gallery",
+  "version": "1.0.0",
+  "description": "Um aplicativo simples para visualizar e gerenciar uma galeria de filmes.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+    // Adicione outras dependências necessárias aqui
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusCirineu?tab=repositories"
+  },
+  "author": "Matheus Cirineu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatheusCirineu?tab=repositories"
+  },
+  "homepage": "https://github.com/MatheusCirineu/MC-Gallery/blob/main/README.md"
+}
